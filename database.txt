@@ -1,0 +1,6 @@
+Expense Collection:
+- ExpenseID (String)
+- Date (Date/Time)
+- Amount (Decimal)
+- Description (String)
+- Category (String)
